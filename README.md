@@ -1,0 +1,4 @@
+mographics
+==========
+
+javascript graphics experiments
