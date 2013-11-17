@@ -1,4 +1,4 @@
 mographics
 ==========
 
-javascript graphics experiments
+experiments
